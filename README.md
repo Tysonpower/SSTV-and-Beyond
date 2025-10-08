@@ -21,3 +21,16 @@ There were two successfull tests of the current hardware and software during two
 * transmit SSTV via SA818 on 144,500mhz
 * transmit Callsign in CW on 144,500mhz
 * transmit APRS Position and Telemetry on 144,800mhz
+
+### Hardware
+
+I made a simple PCB to connect everything together, but you can also just use wires or perf baord like prototype PCBs.
+
+Backside:
+![PXL_20250707_154536705](https://github.com/user-attachments/assets/17b106ea-920c-4f6b-9019-376e4b7ef75b)
+
+Frontside:
+![PXL_20250707_154520141](https://github.com/user-attachments/assets/18700a5b-00e9-4af9-8612-14ff2c70ab27)
+
+Schematic:
+<img width="1160" height="559" alt="image" src="https://github.com/user-attachments/assets/c73fbea3-d27b-4c8c-98ba-8343ce101c28" />
